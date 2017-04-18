@@ -1,0 +1,45 @@
+.cajas{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+
+.cajita{
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  left: 50px;
+  top:50px;
+}
+
+.cajitas-flotantes{
+  width: 50px;
+  height: 50px;
+}
+
+#roja{
+  background-color:rgb(237, 70, 47);
+}
+
+#morada{
+  background-color:rgb(117, 46, 128);
+}
+#azul{
+  background-color:rgb(0, 72, 251);
+}
+
+#verde{
+  background-color: rgb(56, 120, 4);
+}
+
+#amarilla{
+  position: absolute;
+  background-color:yellow;
+  top:50px;
+  left:50px;
+}
+
+#negra{
+  background-color:black;
+}
